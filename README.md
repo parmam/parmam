@@ -1,7 +1,7 @@
 ### Aloha! 👋
 Full-Stack Developer from Argentina to the world!
 
-Mi nombre es Martin Parma tengo 29 anios y actualmente me encuentro en un periodo de continua formación,
+Mi nombre es Martin Parma tengo 30 anios y actualmente me encuentro en un periodo de continua formación,
 durante los pasados 5 meses realice el bootcamp de #SoyHenry, he aqui donde comenzó mi pasión por la programación.
 Anteriormente en varias ocaciones tuve la posibilidad de contribuir con algunos proyectos como freelance a modo de hobbie,
 también había realizado otros cursos en #EducacionIT y ComunidadIT, pero estos no tuvieron tanta llegada como el antes mencionado.
@@ -18,6 +18,5 @@ soluciones tecnológicas tanto a empresas como a independientes, lo que también
 
 
 contacto:
-#web www.gotoxy.dev
 #email: parma.m18@gmail.com
 #linkedin: https://www.linkedin.com/in/parma-martin/
