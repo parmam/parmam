@@ -1,9 +1,9 @@
 Hi 👋 My name is Martin Parma
 =============================I'ma Javascript Full-Stack developer focused mainly on React/NodeJs.--------------------------------------------------------------------I started to join in this world at 2012 when i finished school i decided to study Information system engineering, two years later i quited the carrer because the economic situation of my country got worse so i had to start work full time and it was really hard because i had to spend to much time working. On the following years i toke a few courses focused on software development, there i learnt c#, SQL, HTML5, CSS3, Javascript, JQuery, Framework, etc. At that time programmig was likea hobbie for me, but in 2020 while i was living in Denmark (normal people says the weather is awfull there) the pandemy began and the weather was perfect to keep discovering this world, there i spend some time exploring frameworks like Angular and React, but after a time React conquered me. It was a decision, i wanted to be a software developer. Finally at the start of 2021 i joined in Henry's bootcamp (100% recomended) i think it was more like a professional experience than a bootcamp, there we had to deal with real projects(REST API, CRUD, E-Commerce, etc) during the course learning about agile methodologies like scrum and technologies like React, Redux, NodeJS, Express, Postgress, Sequelize, Jest, Mocha, CSS3, HTML5 etc.
 
-🌍  I'm based in Argentina
-✉️  You can contact me at [parma.m18@gmail.com](mailto:parma.m18@gmail.com)
-🧠  I'm learning Remix, Solidity, web3, Defi
+🌍  I'm based in Argentina </br>
+✉️  You can contact me at [parma.m18@gmail.com](mailto:parma.m18@gmail.com) </br>
+🧠  I'm learning Remix, Solidity, web3, Defi </br>
 
 ### Skills
 
@@ -11,7 +11,9 @@ Hi 👋 My name is Martin Parma
 
 ### Learning
 <p><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a><a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a><a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a></p>
-### Socials<p align="left"> <a href="https://www.github.com/parmam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/parma-martin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Socials 
+<p align="left"> <a href="https://www.github.com/parmam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/parma-martin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
