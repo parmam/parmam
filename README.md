@@ -2,7 +2,10 @@ Hi 👋 My name is Martin Parma
 </br>
 I'ma Javascript Full-Stack developer focused mainly on React/NodeJs. 
 </br>
-I started to join in this world at 2012 when i finished school i decided to study Information system engineering, two years later i quited the carrer because the economic situation of my country got worse so i had to start work full time and it was really hard because i had to spend to much time working. On the following years i toke a few courses focused on software development, there i learnt c#, SQL, HTML5, CSS3, Javascript, JQuery, Framework, etc. At that time programmig was likea hobbie for me, but in 2020 while i was living in Denmark (normal people says the weather is awfull there) the pandemy began and the weather was perfect to keep discovering this world, there i spend some time exploring frameworks like Angular and React, but after a time React conquered me. It was a decision, i wanted to be a software developer. </br>
+I started to join in this world at 2012 when i finished school i decided study Information system engineering, two years later i quited the carrer because the economic situation of my country got worse so i had to start working full time and it was really hard because i had to spend to much time working.
+</br>
+On the following years i toke a few courses focused on software development, i learn C#, SQL, HTML5, CSS3, Javascript, JQuery, Framework, etc. At that time programmig was likea hobbie for me, but in 2020 while i was living in Denmark (normal people says the weather is awfull there) the pandemy began and the weather was perfect to keep discovering this world, there i spend some time exploring frameworks like Angular and React, but after a time React conquered me. It was a decision, i wanted to be a software developer. 
+</br>
 Finally at the begin of 2021 i joined in Henry's bootcamp (100% recomended) i think it was more like a professional experience than a bootcamp, there we had to deal with real projects(REST API, CRUD, E-Commerce, etc) during the course learning about agile methodologies like scrum and technologies like React, Redux, NodeJS, Express, Postgress, Sequelize, Jest, Mocha, CSS3, HTML5 etc.
 </br>
 🌍  I'm based in Argentina </br>
